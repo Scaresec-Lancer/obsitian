@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "93a8eba5174c4e3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bc0fb233e46581c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "课程内容/计算机网络/第一节.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae85c953be4eea45",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ad17166ba14141b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3695ce8727075c53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a91e514d9178afd9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51a8047a5294a27f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ea45fb90974bd33",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd1601ea34ef787d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17ef0c845ddc69e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "课程内容/计算机网络/第一节.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e46ad2392b6342b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "课程内容/计算机网络/第一节.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "855b36d57ac8c0e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4c892eec49566815",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "课程内容/计算机网络/第一节.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8bc0fb233e46581c",
+  "lastOpenFiles": [
+    "课程内容/计算机网络/第一节.md",
+    "课程内容/微机原理/第一节.md",
+    "课外学习/Golang.md",
+    "2022-09-04.md"
+  ]
+}

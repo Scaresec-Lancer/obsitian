@@ -1,0 +1,99 @@
+/* Focus mode */
+/* MIT License | Copyright (c) Stephan Ango (@kepano) */
+
+/* Hide app ribbon */
+.workspace-ribbon.mod-left {
+	border-left:0;
+	transition:none;
+}
+.minimal-focus-mode {
+
+	/* Hide ribbon */
+	.workspace-ribbon.mod-left {
+		transition: background-color 0s linear 0s;
+	}
+	.workspace-ribbon.mod-left.is-collapsed {
+		border-color: transparent;
+		background-color: var(--background-primary);
+		.side-dock-actions,
+		.side-dock-settings {
+			opacity: 0;
+			transition: opacity 0.1s ease-in-out 0.1s;
+		}
+		&:hover {
+			.side-dock-actions,
+			.side-dock-settings {
+				opacity: 1;
+				transition: opacity 0.1s ease-in-out 0.1s;
+			}
+		}
+	}
+	&.borders-title .workspace-ribbon.mod-left.is-collapsed {
+		border-right:none;
+	}
+
+	/* Hide status bar */
+	&:not(.minimal-status-off) .status-bar {
+		opacity: 0;
+		transition:opacity 0.2s ease-in-out;
+	}
+	.status-bar:hover {
+		opacity: 1;
+		transition:opacity 0.2s ease-in-out;
+	}
+
+	.mod-root .workspace-tab-header-container {
+		top: 0;
+		width: 100%;
+		left: 0;
+		right: 0;
+		transition: opacity 0.1s ease-in-out !important;
+		position: absolute;
+		z-index: var(--layer-popover);
+		opacity: 0;
+		&:hover {
+			opacity: 1;
+		}
+	}
+
+}
+
+/* Collapse pane header */
+body:not(.plugin-sliding-panes-rotate-header).show-view-header  .app-container .workspace-split.mod-root > .workspace-leaf .view-header {
+	transition: height linear 0.1s;
+}
+body.minimal-focus-mode:not(.plugin-sliding-panes-rotate-header).show-view-header {
+	.mod-root .workspace-leaf .view-header {
+		height: 0em;
+		transition: all linear 0.1s;
+	}
+	.view-header::after {
+		width: 100%;
+		content: " ";
+		background-color: transparent;
+		height: 20px;
+		position: absolute;
+		z-index: -9;
+		top: 0;
+	}
+	.view-header-title,
+	.view-actions {
+		opacity:0;
+		transition:all linear 0.1s;
+	}
+	.mod-root .workspace-leaf .view-header:hover,
+	.mod-root .workspace-leaf .view-header:focus-within {
+		height:calc(var(--header-height) + 2px);
+		transition:all linear 0.1s;
+	}
+	.view-header:hover .view-actions,
+	.view-header:focus-within .view-actions,
+	.view-header:hover .view-header-title,
+	.view-header:focus-within .view-header-title {
+		opacity:1;
+		transition:all linear 0.1s;
+	}
+	.view-content {
+		height:100%;
+	}
+}
