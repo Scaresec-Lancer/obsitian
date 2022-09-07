@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "课程内容/计算机网络/第一节.md",
+            "file": "课程内容/数据库/第一节.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程内容/计算机网络/第一节.md",
+                "file": "课程内容/数据库/第一节.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程内容/计算机网络/第一节.md",
+                "file": "课程内容/数据库/第一节.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程内容/计算机网络/第一节.md"
+                "file": "课程内容/数据库/第一节.md"
               }
             }
           }
@@ -129,10 +129,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8bc0fb233e46581c",
+  "active": "3695ce8727075c53",
   "lastOpenFiles": [
-    "课程内容/计算机网络/第一节.md",
     "课程内容/微机原理/第一节.md",
+    "课程内容/计算机网络/第一节.md",
+    "课程内容/操作系统/第一节.md",
+    "Pasted image 20220906081504.png",
     "课外学习/Golang.md",
     "2022-09-04.md"
   ]
