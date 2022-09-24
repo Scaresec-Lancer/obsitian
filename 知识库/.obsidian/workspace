@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "课程内容/微机原理/主结构.md",
+            "file": "课程内容/操作系统/主结构.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程内容/微机原理/主结构.md",
+                "file": "课程内容/操作系统/主结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程内容/微机原理/主结构.md",
+                "file": "课程内容/操作系统/主结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程内容/微机原理/主结构.md"
+                "file": "课程内容/操作系统/主结构.md"
               }
             }
           }
@@ -128,16 +128,16 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4c892eec49566815",
+  "active": "8bc0fb233e46581c",
   "lastOpenFiles": [
+    "课程内容/计算机学科导论/第一课.md",
+    "课程内容/微机原理/主结构.md",
     "课程内容/操作系统/主结构.md",
     "简悦/二进制的原码、反码、补码、移码 - 简书.md",
     "课程内容/操作系统/第二节.md",
     "课程内容/计算机网络/CS和BS两种架构区别与优缺点分析.md",
     "课程内容/计算机网络/主结构.md",
-    "课程内容/计算机学科导论/第一课.md",
     "课程内容/文物鉴赏/古金银器鉴赏.md",
-    "课程内容/微机原理/主结构.md",
     "课程内容/三笔字/第一节.md",
     "课程内容/数据库/第一节.md"
   ]
