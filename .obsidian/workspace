@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "10873cd926374b26",
+    "type": "split",
+    "children": [
+      {
+        "id": "b28752e36e0d9b49",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "知识库/课外学习/Golang.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc1602a278e65652",
+    "type": "split",
+    "children": [
+      {
+        "id": "075c69b4ed861719",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcf6a86c0ea99008",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b284840b2ecf7ccf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac3a9c368e05bbae",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcb21adecfc21e74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a60fa99370ab3f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识库/课外学习/Golang.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0245c051344e68dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识库/课外学习/Golang.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "b28752e36e0d9b49",
+  "lastOpenFiles": [
+    "知识库/课程内容/操作系统/主结构.md",
+    "Pasted image 20220930180153.png",
+    "知识库/课程内容/计算机网络/主结构.md",
+    "知识库/课外学习/四级作文模板.md",
+    "知识库/课程内容/计算机学科导论/第一课.md",
+    "知识库/课程内容/计算机网络/CS和BS两种架构区别与优缺点分析.md",
+    "知识库/考研/准备工作.md"
+  ]
+}

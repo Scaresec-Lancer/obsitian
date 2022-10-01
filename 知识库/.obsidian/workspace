@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "考研/准备工作.md",
-            "mode": "source",
+            "file": "课程内容/操作系统/主结构.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -26,14 +26,6 @@
         "id": "1ad17166ba14141b",
         "type": "tabs",
         "children": [
-          {
-            "id": "3695ce8727075c53",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
           {
             "id": "a91e514d9178afd9",
             "type": "leaf",
@@ -56,8 +48,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "a82047556d7bb3c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研/准备工作.md",
+                "file": "课程内容/操作系统/主结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研/准备工作.md",
+                "file": "课程内容/操作系统/主结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,25 +118,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研/准备工作.md"
+                "file": "课程内容/操作系统/主结构.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8bc0fb233e46581c",
+  "active": "a82047556d7bb3c4",
   "lastOpenFiles": [
-    "考研/选学校才是正解.md",
+    "简悦/二进制的原码、反码、补码、移码 - 简书.md",
     "考研/准备工作.md",
+    "考研/选学校才是正解.md",
     "课程内容/操作系统/主结构.md",
     "课程内容/计算机学科导论/第一课.md",
     "课程内容/微机原理/主结构.md",
-    "简悦/二进制的原码、反码、补码、移码 - 简书.md",
     "课程内容/操作系统/第二节.md",
     "课程内容/计算机网络/CS和BS两种架构区别与优缺点分析.md",
     "课程内容/计算机网络/主结构.md",

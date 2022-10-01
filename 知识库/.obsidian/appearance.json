@@ -1,5 +1,7 @@
 {
   "theme": "moonstone",
   "translucency": false,
-  "cssTheme": ""
+  "cssTheme": "Blue Topaz",
+  "interfaceFontFamily": "苹方 简",
+  "textFontFamily": "苹方 简"
 }
