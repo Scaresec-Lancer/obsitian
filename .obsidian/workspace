@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识库/课外学习/Golang.md",
+            "file": "知识库/课程内容/微机原理/主结构.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/课外学习/Golang.md",
+                "file": "知识库/课程内容/微机原理/主结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/课外学习/Golang.md"
+                "file": "知识库/课程内容/微机原理/主结构.md"
               }
             }
           }
@@ -99,6 +99,7 @@
   },
   "active": "b28752e36e0d9b49",
   "lastOpenFiles": [
+    "知识库/课外学习/Golang.md",
     "知识库/课程内容/操作系统/主结构.md",
     "Pasted image 20220930180153.png",
     "知识库/课程内容/计算机网络/主结构.md",
