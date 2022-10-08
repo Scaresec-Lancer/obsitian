@@ -3,5 +3,6 @@
   "translucency": false,
   "cssTheme": "Blue Topaz",
   "interfaceFontFamily": "苹方 简",
-  "textFontFamily": "苹方 简"
+  "textFontFamily": "苹方 简",
+  "baseFontSize": 17
 }
