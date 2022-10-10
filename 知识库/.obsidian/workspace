@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "课程内容/计算机网络/主结构.md",
+            "file": "课程内容/微格教学/第一次上课-引入稿.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程内容/计算机网络/主结构.md",
+                "file": "课程内容/微格教学/第一次上课-引入稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程内容/计算机网络/主结构.md",
+                "file": "课程内容/微格教学/第一次上课-引入稿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程内容/计算机网络/主结构.md"
+                "file": "课程内容/微格教学/第一次上课-引入稿.md"
               }
             }
           }
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a82047556d7bb3c4",
+  "active": "8bc0fb233e46581c",
   "lastOpenFiles": [
+    "课程内容/微机原理/主结构.md",
+    "课程内容/计算机网络/主结构.md",
     "课程内容/微格教学/第一次上课-引入稿.md",
     "课外学习/金字塔原理.md",
-    "课程内容/计算机网络/主结构.md",
     "课程内容/计算机网络/CS和BS两种架构区别与优缺点分析.md",
     "课程内容/操作系统/主结构.md",
     "课外学习/Golang.md",
     "简悦/二进制的原码、反码、补码、移码 - 简书.md",
     "考研/准备工作.md",
-    "考研/选学校才是正解.md",
-    "课程内容/计算机学科导论/第一课.md"
+    "考研/选学校才是正解.md"
   ]
 }
