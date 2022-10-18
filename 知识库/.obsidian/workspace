@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8bc0fb233e46581c",
+        "id": "8e9d46cb7287c965",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "课程内容/微格教学/第一次上课-引入稿.md",
+            "file": "课程内容/数据库/第一节.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程内容/微格教学/第一次上课-引入稿.md",
+                "file": "课程内容/数据库/第一节.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程内容/微格教学/第一次上课-引入稿.md",
+                "file": "课程内容/数据库/第一节.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,28 +118,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程内容/微格教学/第一次上课-引入稿.md"
+                "file": "课程内容/数据库/第一节.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8bc0fb233e46581c",
+  "active": "a82047556d7bb3c4",
   "lastOpenFiles": [
-    "课程内容/微机原理/主结构.md",
+    "课程内容/计算机网络/Part 2.md",
+    "课程内容/操作系统/Part 2.md",
+    "课程内容/操作系统/Part 1.md",
+    "课程内容/数据库/第一节.md",
     "课程内容/计算机网络/主结构.md",
-    "课程内容/微格教学/第一次上课-引入稿.md",
-    "课外学习/金字塔原理.md",
-    "课程内容/计算机网络/CS和BS两种架构区别与优缺点分析.md",
-    "课程内容/操作系统/主结构.md",
-    "课外学习/Golang.md",
-    "简悦/二进制的原码、反码、补码、移码 - 简书.md",
-    "考研/准备工作.md",
-    "考研/选学校才是正解.md"
+    "课程内容/计算机网络/Part 1.md",
+    "课程内容/计算机网络/第一章.md",
+    "课程内容/计算机网络/第二章.md",
+    "课程内容/计算机网络/1.2.md",
+    "课程内容/计算机网络/CS和BS两种架构区别与优缺点分析.md"
   ]
 }
